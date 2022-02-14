@@ -21,7 +21,7 @@
 *SOFTWARE.
 */
 /************************************/
-# Phishingtemplates /paypal           #
+# Phishingtemplates /paypal          #
 # author: It0sh1                     #
 # github: https://github.com/it0sh1  #
 /*************************************/
