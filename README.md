@@ -16,6 +16,8 @@ you do with it. But people do not care at all, so enjoy! :)</p>
 
 `Tested on:`
 - Windows 11
+- Xampp
+- Apache2
 
 # How to install
 <p>For windows users just download the .zip file,
