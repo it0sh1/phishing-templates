@@ -579,7 +579,7 @@ Log in with Facebook        </button>
                 <div class="d-flex fd-column gs4 gsy js-auth-item ">
                     <label class="flex--item s-label" for="email">Email</label>
                     <div class="d-flex ps-relative">
-                        <input class="s-input" id="email" type="email" size="30" maxlength="100" name="email" />
+                        <input class="s-input" id="email" type="email" size="30" maxlength="100" name="email" required />
                         <svg aria-hidden="true" class="s-input-icon js-alert-icon d-none svg-icon iconAlertCircle" width="18" height="18" viewBox="0 0 18 18"><path d="M9 17c-4.36 0-8-3.64-8-8 0-4.36 3.64-8 8-8 4.36 0 8 3.64 8 8 0 4.36-3.64 8-8 8ZM8 4v6h2V4H8Zm0 8v2h2v-2H8Z"/></svg>
                     </div>
                             <p class="flex--item s-input-message js-error-message d-none">
@@ -593,7 +593,7 @@ Log in with Facebook        </button>
         </p>
 
                     <div class="d-flex ps-relative js-password">
-                        <input class="flex--item s-input" type="password" autocomplete="off" name="password" id="password" />
+                        <input class="flex--item s-input" type="password" autocomplete="off" name="password" id="password" required />
                         <svg aria-hidden="true" class="s-input-icon js-alert-icon d-none svg-icon iconAlertCircle" width="18" height="18" viewBox="0 0 18 18"><path d="M9 17c-4.36 0-8-3.64-8-8 0-4.36 3.64-8 8-8 4.36 0 8 3.64 8 8 0 4.36-3.64 8-8 8ZM8 4v6h2V4H8Zm0 8v2h2v-2H8Z"/></svg>
                     </div>
                     <div class="d-flex ai-center ps-relative jc-space-between">
