@@ -1,0 +1,11 @@
+# REMOVE .php / .html Extensions
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [NC,L]
+
+# set main page
+DirectoryIndex login.php
+
+# redirecting 404 handle page in /errorhandler/
+ErrorDocument 404 /phishingtemplates/netflix/errorhandler/NotFound.php
