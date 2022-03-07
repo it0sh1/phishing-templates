@@ -29,6 +29,15 @@ command in terminal: </p>
 #: git clone https://github.com/it0sh1/phishing-templates.git
 ```
 
+<h1>Screens</h1>
+here are some screenshots i made from 2 templates of this project. 
+Example Netflix and Paypal. Take a look:<br><br>
+
+<h1>Netflix:</h1>
+<img src="https://user-images.githubusercontent.com/52290766/157095800-059335b8-4e9c-490a-ab20-97f4096817d9.png" height='500px'>
+<h1>Paypal:</h1>
+<img src="https://user-images.githubusercontent.com/52290766/157096612-d2ac81cb-bdec-4c2f-ac75-7994804d6678.png" height='500px'>
+
 <h1>Support</h1>
 
 Let me know if you've found any bugs or something.<br>
