@@ -5,7 +5,7 @@ $yahoo_link = "https://login.yahoo.com"; // linking
 
 // Database configuration
 // set $use_db to true if wanna use database (DEFAULT: false)
-$use_db = true;
+$use_db = false;
 
 // MySQL Configuration
 $db_host = "localhost"; // your host
