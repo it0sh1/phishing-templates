@@ -1,7 +1,7 @@
 <h6 align="center">
 <pre>
 
-<p align="center">_Different Phishing Templates_</p><hr>
+<p align="center">Phishing Templates</p><hr>
 <p align="left">About:<br><br>This Repo contains different Phishing Templates written in PHP 🐘
 platforms like: Facebook, Paypal, Netflix etc etc..). From time
 to time i will upload more templates.<br><br>Functions:
