@@ -1,48 +1,30 @@
-## Phishing templates
-<p>Here are some different phishing templates written in PHP 🐘<br>
-From time to time i will upload more templates.<br>
+<h6 align="center">
+<pre>
 
-  `Disclaimer:` I am <b>NOT RESPONSIBLE</b> for your actions. <br>
-Don't use it for illegal purposes, ofcourse it is up to you what<br>
-you do with it. But people do not care at all, so enjoy! :)</p>
+<p align="center">_Different Phishing Templates_</p><hr>
+<p align="left">About:<br><br>This Repo contains different Phishing Templates written in PHP 🐘
+platforms like: Facebook, Paypal, Netflix etc etc..). From time
+to time i will upload more templates.<br><br>Functions:
+- Different platforms of social media's or other services.
+- Looks like the real website.
+- SQL Option (If you wanna store credentials in a database).
+- IP Blocking (Coming soon)
+- Included .htaccess.
+- Includes the real 404 page from a service.
+</p>
+<p align="left">Tested and compatible with:
+- Windows
+- Linux (Ubuntu)
+- XAMPP webserver software
+- Apache2</p>
+<p align="left">
+Here are some screenshots:
 
-`Phishing templates have the following functions:`
-- It has different social media templates
-- Looks like the real website
-- SQL Option (if you wanna store credentials in a db)
-- IP Blocking (comming soon)
-- Included .htaccess
-- errorhandler (404)
-
-`Tested on:`
-- Windows 11
-- Xampp
-- Apache2
-
-# How to install
-<p>For windows users just download the .zip file,
-setup a webserver,<br>and place them there. For linux users
-you can also download .zip file<br> or just enter the following
-command in terminal: </p>
-
-```
-#: git clone https://github.com/it0sh1/phishing-templates.git
-```
-
-<h1>Screens</h1>
-here are some screenshots i made from 2 templates of this project. 
-Example Netflix and Paypal. Take a look:<br><br>
-
-<h1>Netflix:</h1>
-<img src="https://user-images.githubusercontent.com/52290766/157095800-059335b8-4e9c-490a-ab20-97f4096817d9.png" height='500px'>
-<h1>Paypal:</h1>
-<img src="https://user-images.githubusercontent.com/52290766/157096612-d2ac81cb-bdec-4c2f-ac75-7994804d6678.png" height='500px'>
-
-<h1>Support</h1>
-
-Let me know if you've found any bugs or something.<br>
-Feel free to contact me:
-
-| email:    | unknowwn@protonmail.ch |
-| --------- | ----------------------|
-f
+PayPal                | Netflix
+:-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/52290766/159512863-776487c5-30e5-4d93-9ff7-9dc0e3a15038.png" width="460" height="200" />  |  <img src="https://user-images.githubusercontent.com/52290766/159513667-e2b6b2da-13c4-4e41-a4cf-2c2e7a3458c1.png" width="460" height="200" />
+<hr>
+Disclaimer: Im not responsible for any illegal actions people make with this kinda stuff. I only develop
+and post it to github. What you doing with this, that is up to you. but obviously people do not listen, 
+so enjoy phishing.
+</p>
